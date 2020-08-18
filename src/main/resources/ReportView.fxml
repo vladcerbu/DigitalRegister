@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Polygon?>
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="600.0" prefWidth="900.0" style="-fx-background-color: White;" xmlns="http://javafx.com/javafx/10.0.2" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controllers.ReportController">
+   <children>
+      <TableView fx:id="rap1TableView" prefHeight="350.0" prefWidth="350.0" style="-fx-background-color: #87ceeb; -fx-border-color: #87ceeb;">
+        <columns>
+          <TableColumn fx:id="id1Column" prefWidth="45.0" text="ID" />
+          <TableColumn fx:id="nume1Column" prefWidth="150.0" text="Nume" />
+            <TableColumn fx:id="grupa1Column" prefWidth="50.0" text="Grupa" />
+            <TableColumn fx:id="medie1Column" prefWidth="100.0" text="Media" />
+        </columns>
+      </TableView>
+      <TableView fx:id="rap2TableView" layoutX="549.0" prefHeight="350.0" prefWidth="350.0" style="-fx-background-color: #66ff00; -fx-border-color: #66ff00;">
+        <columns>
+          <TableColumn fx:id="id2Column" prefWidth="45.0" text="ID" />
+          <TableColumn fx:id="nume2Column" prefWidth="150.0" text="Nume" />
+            <TableColumn fx:id="grupa2Column" prefWidth="50.0" text="Grupa" />
+            <TableColumn fx:id="medie2Column" prefWidth="100.0" text="Media" />
+        </columns>
+      </TableView>
+      <ListView fx:id="rap4ListView" layoutX="325.0" layoutY="352.0" prefHeight="245.0" prefWidth="250.0" style="-fx-background-color: #ffd700;" />
+      <Label layoutX="361.0" layoutY="8.0" text="RAPOARTE" textFill="#740270">
+         <font>
+            <Font name="Cambria Bold Italic" size="36.0" />
+         </font>
+      </Label>
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#1fff66" height="28.0" layoutX="361.0" layoutY="161.0" stroke="BLACK" strokeType="INSIDE" width="107.0" />
+      <Polygon fill="#1fff66" layoutX="512.0" layoutY="171.0" points="-50.000030517578125, 47.40000915527344, 14.399993896484375, 7.4000091552734375, -50.000030517578125, -40.19999694824219" stroke="BLACK" strokeType="INSIDE" />
+      <Label layoutX="89.0" layoutY="350.0" text="Medii Studenti" textFill="#740270">
+         <font>
+            <Font name="Cambria Bold Italic" size="18.0" />
+         </font>
+      </Label>
+      <Label layoutX="665.0" layoutY="350.0" text="Studenti in Examen" textFill="#740270">
+         <font>
+            <Font name="Cambria Bold Italic" size="18.0" />
+         </font>
+      </Label>
+      <Label layoutX="372.0" layoutY="308.0" prefHeight="44.0" prefWidth="156.0" text="Studenti care au predat toate temele la timp" textAlignment="CENTER" textFill="#740270" wrapText="true">
+         <font>
+            <Font name="Cambria Bold Italic" size="14.0" />
+         </font>
+      </Label>
+      <Label fx:id="hardHwLabel" layoutX="34.0" layoutY="464.0" text="Cea mai grea tema: " textFill="#740270">
+         <font>
+            <Font name="Cambria Bold Italic" size="18.0" />
+         </font>
+      </Label>
+      <Label fx:id="hardGrLabel" layoutX="34.0" layoutY="485.0" text="Nota: " textFill="#740270">
+         <font>
+            <Font name="Cambria Bold Italic" size="18.0" />
+         </font>
+      </Label>
+      <Button fx:id="backButton" layoutX="758.0" layoutY="560.0" mnemonicParsing="false" onAction="#handleBack" prefWidth="125.0" text="Inapoi la Meniu" textFill="#740270">
+         <font>
+            <Font name="Cambria Bold" size="14.0" />
+         </font>
+      </Button>
+   </children>
+</AnchorPane>

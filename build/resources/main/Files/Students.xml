@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Student>
+    <Student id="1">
+        <lastName>Cerbu</lastName>
+        <firstName>Vlad</firstName>
+        <group>221</group>
+        <email>vladutzcerbu@yahoo.com</email>
+        <labProf>Vescan Andreea</labProf>
+    </Student>
+    <Student id="2">
+        <lastName>Buciu</lastName>
+        <firstName>Stefan</firstName>
+        <group>221</group>
+        <email>stefanbuciu@gmail.com</email>
+        <labProf>Vladut Dragut</labProf>
+    </Student>
+    <Student id="3">
+        <lastName>Mariuc</lastName>
+        <firstName>Catalin</firstName>
+        <group>321</group>
+        <email>mcir@scs.ubbcluj.ro</email>
+        <labProf>Eu si Tu</labProf>
+    </Student>
+    <Student id="4">
+        <lastName>Cailean</lastName>
+        <firstName>Marius</firstName>
+        <group>221</group>
+        <email>caileanmarius@sarpele.com</email>
+        <labProf>Eu</labProf>
+    </Student>
+    <Student id="5">
+        <lastName>Ardeal</lastName>
+        <firstName>Ardeal</firstName>
+        <group>224</group>
+        <email>ardeal@ardeal.ro</email>
+        <labProf>El</labProf>
+    </Student>
+    <Student id="6">
+        <lastName>Codreanu</lastName>
+        <firstName>Andrei</firstName>
+        <group>222</group>
+        <email>codandrei@gmail.com</email>
+        <labProf>Cineva</labProf>
+    </Student>
+    <Student id="7">
+        <lastName>Latis</lastName>
+        <firstName>Mihai</firstName>
+        <group>224</group>
+        <email>mihaitza@yahoo.ro</email>
+        <labProf>Mariuta</labProf>
+    </Student>
+    <Student id="8">
+        <lastName>Benchea</lastName>
+        <firstName>Alex</firstName>
+        <group>221</group>
+        <email>bencheaaa@aaa.com</email>
+        <labProf>Vladut Ionescu</labProf>
+    </Student>
+</Student>

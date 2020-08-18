@@ -1,0 +1,54 @@
+Tema numarul: 1
+Nota: 10.0
+Predata in saptamana: 2
+Deadline: 2
+Feedback: - Nota a fost diminuata cu 0 puncte din cauza intarzierilor.
+
+Tema numarul: 2
+Nota: 10.0
+Predata in saptamana: 4
+Deadline: 4
+Feedback: - Nota a fost diminuata cu 0 puncte din cauza intarzierilor.
+
+Tema numarul: 3
+Nota: 9.5
+Predata in saptamana: 5
+Deadline: 5
+Feedback: - Nota a fost diminuata cu 0 puncte din cauza intarzierilor.
+
+Tema numarul: 4
+Nota: 9.0
+Predata in saptamana: 6
+Deadline: 6
+Feedback: - Nota a fost diminuata cu 0 puncte din cauza intarzierilor.
+
+Tema numarul: 5
+Nota: 9.75
+Predata in saptamana: 7
+Deadline: 7
+Feedback: - Nota a fost diminuata cu 0 puncte din cauza intarzierilor.
+
+Tema numarul: 7
+Nota: 10.0
+Predata in saptamana: 9
+Deadline: 9
+Feedback: - Nota a fost diminuata cu 0 puncte din cauza intarzierilor.
+
+Tema numarul: 8
+Nota: 9.5
+Predata in saptamana: 10
+Deadline: 10
+Feedback: - Nota a fost diminuata cu 0 puncte din cauza intarzierilor.
+
+Tema numarul: 9
+Nota: 10.0
+Predata in saptamana: 11
+Deadline: 11
+Feedback: - Nota a fost diminuata cu 0 puncte din cauza intarzierilor.
+
+Tema numarul: 11
+Nota: 10.0
+Predata in saptamana: 12
+Deadline: 14
+Feedback: - Nota a fost diminuata cu 0 puncte din cauza intarzierilor.
+

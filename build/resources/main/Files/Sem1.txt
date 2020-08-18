@@ -1,0 +1,5 @@
+2019-2020
+startSemester=30/09/2019
+startHolyday=23/12/2019
+endHolyday=05/01/2020
+endSemester=17/01/2020

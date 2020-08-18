@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Homework>
+    <Homework id="1">
+        <description>Prima Tema - Lab1</description>
+        <startWeek>1</startWeek>
+        <deadlineWeek>2</deadlineWeek>
+    </Homework>
+    <Homework id="2">
+        <description>Abstract Task</description>
+        <startWeek>2</startWeek>
+        <deadlineWeek>4</deadlineWeek>
+    </Homework>
+    <Homework id="3">
+        <description>Incepem proiect mare - Iteratia 1</description>
+        <startWeek>3</startWeek>
+        <deadlineWeek>5</deadlineWeek>
+    </Homework>
+    <Homework id="4">
+        <description>Proiect mare - Iteratia 2</description>
+        <startWeek>4</startWeek>
+        <deadlineWeek>6</deadlineWeek>
+    </Homework>
+    <Homework id="5">
+        <description>Proiect mare - Filtrari</description>
+        <startWeek>5</startWeek>
+        <deadlineWeek>7</deadlineWeek>
+    </Homework>
+    <Homework id="7">
+        <description>GUI - Iteratia 1</description>
+        <startWeek>7</startWeek>
+        <deadlineWeek>9</deadlineWeek>
+    </Homework>
+    <Homework id="8">
+        <description>GUI - Iteratia 2</description>
+        <startWeek>8</startWeek>
+        <deadlineWeek>10</deadlineWeek>
+    </Homework>
+    <Homework id="9">
+        <description>GUI - Rapoarte</description>
+        <startWeek>9</startWeek>
+        <deadlineWeek>11</deadlineWeek>
+    </Homework>
+    <Homework id="10">
+        <description>Lab de C#</description>
+        <startWeek>11</startWeek>
+        <deadlineWeek>14</deadlineWeek>
+    </Homework>
+</Homework>

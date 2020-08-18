@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Student>
+    <Student id="0">
+        <lastName>Cerbu</lastName>
+        <firstName>Vlad</firstName>
+        <group>222</group>
+        <email>vladutzcerbu@yahoo.com</email>
+        <labProf>Vescan Andreea</labProf>
+    </Student>
+</Student>
